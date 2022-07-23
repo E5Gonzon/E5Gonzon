@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @E5Gonzon
+- 👋 Hi, I’m Nelson (@E5Gonzon).
 - 👀 I’m interested in learing front end web developement.
 - 🌱 I’m currently learning The Complete Web Developer: Zero to Mastery Course. 
 - 💞️ I’m looking to collaborate on projects to help me become more proficient at web developement. 
