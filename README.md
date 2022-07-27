@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Nelson (@E5Gonzon).
-- 👀 I’m interested in learing front end web developement.
+- 👀 I’m interested in learing front end web developement, with the goal of becoming a full-stack web developer. 
 - 🌱 I’m currently learning The Complete Web Developer: Zero to Mastery Course. 
-- 💞️ I’m looking to collaborate on projects to help me become more proficient at web developement. 
+- 💞️ I’m looking to collaborate on projects to help me become a more proficient programer. 
 - 📫 How to reach me via email at gonzon22@gmail.com.
 
 About Me:
-*Eight years in the United States Marine Corps January 2000 - January 2008. Honorably discharged Veteran, with two deployments. Meritorously promoted twice. Selected for Platoon Leaders Course and completed Officer Candidate School Quantico VA,
+*Eight years in the United States Marine Corps January 2000 - January 2008. 
+*Honorably discharged Veteran, with two deployments. 
+*Meritorously promoted twice. Selected for Platoon Leaders Course and completed Officer Candidate School Quantico VA,
+
 *Worked in Hospitality and Hospitality management from 2007 - 2021. 
 
 <!---
