@@ -11,6 +11,9 @@ About Me:
 
 *Worked in Hospitality and Hospitality management from 2007 - 2021. 
 
+Education: 
+*Graduated from High School in 1999.
+
 <!---
 E5Gonzon/E5Gonzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
