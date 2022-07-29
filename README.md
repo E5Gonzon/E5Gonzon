@@ -12,6 +12,7 @@ About Me:
 *Worked in Hospitality and Hospitality management from 2007 - 2021. 
 
 Education: 
+*A.A. Business Administration: Hillsborough Community College. 2007 - Current.
 *Graduated from High School in 1999.
 
 <!---
